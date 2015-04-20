@@ -1,4 +1,4 @@
-# <a href="http://rosarior.github.io/awesome-django/"><img src="https://raw.githubusercontent.com/rosarior/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
+# <a href="http://rosarior.github.io/awesome-django/"><img src="https://raw.githubusercontent.com/rosariowr/awesome-django/gh-pages/images/logo-small.png" align="absmiddle"/> Awesome Django</a>
 
 A curated list of awesome Django apps, projects and resources. Inspired by and based on [awesome-python](https://github.com/vinta/awesome-python/).
 
@@ -436,6 +436,7 @@ Where to discover new Django apps and projects.
 * [Django Sites](https://www.djangosites.org) - Django Sites is a showcase of websites powered by Django.
 * [Full Stack Python's Django page](http://www.fullstackpython.com/django.html) - contains explanations for Django's philosophy and its components along with links to other resources and tutorials.
 * [Django Introduction](http://www.django-introduction.com/) - A reusable set of slides to educate more people about Django.
+* [Django Girls Tutorial](http://tutorial.djangogirls.org/) - A fun and engaging tutorial showing how to build a blog using Django and deploy it to Heroku.
 
 ## Conferences
 
